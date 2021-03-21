@@ -1,5 +1,2 @@
-Hello world
-1
-test
-hi
-ocean
+console.log("Hello")
+console.log("Hi")
